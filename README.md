@@ -17,7 +17,7 @@
 2) Установить зависимости командой в терминале: 
    pip install -r requirements.txt
 3) Запустить тест командой в терминале: 
-   python -m pytest -v --driver Chrome --driver-path /chromedriver.exe tests/tests_my_pets.py
+   python -m pytest -v --driver Chrome --driver-path </путь к драйверу/chromedriver.exe> tests/tests_my_pets.py
 
 
 
